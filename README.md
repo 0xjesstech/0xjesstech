@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Jess — @JessOnTech
 
-<!--
-**JessOnTechGit/JessOnTechGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Smart Contract Auditor | 🛡 Web3 Security Advocate | 🎓 Cyfrin Updraft Student | 🎓 Cyfrin CodeHawks Contributor
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I'm learning about smart contract security and AI. At [Cyfrin](https://cyfrin.io), I help onboard top-tier blockchain projects.
+
+- 🧠 Passionate about **Solidity, EVM internals, L2 protocols**, and **ZK cryptography**
+- 🔍 Active contributor to **open audit contests** and **vulnerability research**
+- ✍️ Writer of educational content on **smart contract design, exploits, and audit methodology**
+- 🧪 Currently experimenting with **static analysis tool Aderyn**, **fuzz testing**, and **Uniswap v4 hooks**
+
+---
+
+### 🛠 Tech Stack
+
+- **Languages:** Solidity, Python, JavaScript, React, Rust
+- **Tooling:** Foundry, Hardhat
+- **Chains:** Ethereum, EVM
+
+---
+
+### 🎓 Education
+
+- **Degree:** Mathematics BSc (honours)  
+- **Web3 Security:** Cyfrin UpDraft
+
+---
+
+### 🔗 Projects & Highlights
+
+- ✍️ [Smart Contract Deep Dives]([https://x.com/jessontech](https://medium.com/@jessontech))
+- 🎮 Contributor to [Cyfrin CodeHawks First Flights](https://github.com/JessOnTechGit/vegas-blackjack) – Educational game for auditing practice  
+- 🎓 Contributor to [Cyfrin Blog]([https://www.cyfrin.io/updraft](https://www.cyfrin.io/blog/solidity-gas-efficiency-tips-tackle-rising-fees-base-other-l2))
+
+---
+
+### 📬 Let’s Connect
+
+- 🐦 Twitter: [@JessOnTech](https://twitter.com/JessOnTech)  
+- 🎥 Medoim: [@JessOnTech]([https://www.youtube.com/@cyfrin](https://medium.com/@jessontech))
+
+---
+
+- 💬 How to reach me on Telegram: @jess6490
+- 📫 How to reach me by Email: jess@cyfrin.io
