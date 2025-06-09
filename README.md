@@ -8,7 +8,7 @@
 
 I'm learning about smart contract security and AI. At [Cyfrin](https://cyfrin.io), I help onboard top-tier blockchain projects.
 
-- 🧠 Passionate about **Solidity, EVM internals, L2 protocols**, and **ZK cryptography**
+- 🧠 Passionate about **Web3 Security**
 - 🔍 Active contributor to **open audit contests** and **vulnerability research**
 - ✍️ Writer of educational content on **smart contract design, exploits, and audit methodology**
 - 🧪 Currently experimenting with **static analysis tool Aderyn**, **fuzz testing**, and **Uniswap v4 hooks**
