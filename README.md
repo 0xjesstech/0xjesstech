@@ -32,8 +32,8 @@ I'm learning about smart contract security and AI. At [Cyfrin](https://cyfrin.io
 
 ### 🔗 Projects & Highlights
 
-- ✍️ [Smart Contract Deep Dives]([https://x.com/jessontech](https://medium.com/@jessontech))
-- 🎮 Contributor to [Cyfrin CodeHawks First Flights](https://github.com/JessOnTechGit/vegas-blackjack) – Educational game for auditing practice  
+- ✍️ [Smart Contract Deep Dives](https://medium.com/@jessontech)
+- 🎮 Contributor to [Cyfrin CodeHawks First Flights](https://codehawks.cyfrin.io/c/2024-11-twentyone) – Educational game for auditing practice  
 - 🎓 Contributor to [Cyfrin Blog]([https://www.cyfrin.io/updraft](https://www.cyfrin.io/blog/solidity-gas-efficiency-tips-tackle-rising-fees-base-other-l2))
 
 ---
@@ -41,7 +41,7 @@ I'm learning about smart contract security and AI. At [Cyfrin](https://cyfrin.io
 ### 📬 Let’s Connect
 
 - 🐦 Twitter: [@JessOnTech](https://twitter.com/JessOnTech)  
-- 🎥 Medoim: [@JessOnTech]([https://www.youtube.com/@cyfrin](https://medium.com/@jessontech))
+- 🎥 Medium: [@JessOnTech](https://medium.com/@jessontech)
 
 ---
 
