@@ -34,7 +34,7 @@ I'm learning about smart contract security and AI. At [Cyfrin](https://cyfrin.io
 
 - ✍️ [Smart Contract Deep Dives](https://medium.com/@jessontech)
 - 🛠 (First!) Full stack project: [On-Chain Blackjack Card Game](https://github.com/JessOnTechGit/FF21-full-stack) 
-- 🎮 Contributor to [Cyfrin CodeHawks First Flights](https://codehawks.cyfrin.io/c/2024-11-twentyone) – Educational game for auditing practice  
+- 🎮 Contributor to Cyfrin CodeHawks First Flights - eg[First Flight #33: DatingDapp](https://github.com/JessOnTechGit/FF33-dating-dapp)
 - 🎓 Contributor to [Cyfrin Blog](https://www.cyfrin.io/blog/solidity-gas-efficiency-tips-tackle-rising-fees-base-other-l2)
 
 ---
