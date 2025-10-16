@@ -10,7 +10,7 @@ I'm learning about smart contract security and AI. At [Cyfrin](https://cyfrin.io
 - 🧠 Passionate about **Web3 Security**
 - 🔍 Active contributor to **open audit contests** and **vulnerability research**
 - ✍️ Writer of educational content on **smart contract design, exploits, and audit methodology**
-- 🧪 Currently experimenting with **static analysis tool Aderyn**, **fuzz testing**, and **Uniswap v4 hooks**
+- 🧪 Currently experimenting with **static analysis tool Aderyn**
 
 ---
 
