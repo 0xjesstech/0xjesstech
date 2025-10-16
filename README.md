@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Jess — @JessOnTech
-
+# 👋 Hi, I'm Jess — @0xjesstech
 🔐 Smart Contract Auditor | 🛡 Web3 Security Advocate | 🎓 Cyfrin Updraft Student | 🎓 Cyfrin CodeHawks Contributor
 
 ---
@@ -41,8 +40,8 @@ I'm learning about smart contract security and AI. At [Cyfrin](https://cyfrin.io
 
 ### 📬 Let’s Connect
 
-- 🐦 Twitter: [@JessOnTech](https://twitter.com/JessOnTech)  
-- 🎥 Medium: [@JessOnTech](https://medium.com/@jessontech)
+- 🐦 Twitter: [@0xjesstech](https://twitter.com/0xjesstech)  
+- 🎥 Medium: [@0xjesstech](https://medium.com/@0xjesstech)
 
 ---
 
