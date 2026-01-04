@@ -1,49 +1,22 @@
 # 👋 Hi, I'm Jess — @0xjesstech
-🔐 Smart Contract Auditor | 🛡 Web3 Security Advocate | 🎓 Cyfrin Updraft Student | 🎓 Cyfrin CodeHawks Contributor
 
 ---
 
-### 🚀 About Me
+Instructor at [Cyfrin Updraft](https://updraft.cyfrin.io). I teach smart contract development and security.
 
-I'm learning about smart contract security and AI. At [Cyfrin](https://cyfrin.io), I help onboard top-tier blockchain projects.
+Previously studied maths, now most of my time goes into creating educational content, building cool stuff, and trying to break cool stuff (morally).
 
-- 🧠 Passionate about **Web3 Security**
-- 🔍 Active contributor to **open audit contests** and **vulnerability research**
-- ✍️ Writer of educational content on **smart contract design, exploits, and audit methodology**
-- 🧪 Currently experimenting with **static analysis tool Aderyn**
+## Things I've made/done
 
----
+- [On-Chain Blackjack](https://github.com/0xjesstech/FF21-full-stack) — my first full-stack dApp
+- [Damn Vulnerable DeFi V4 solutions](https://github.com/0xjesstech/DamnVulnerableDefiV4)
+- [Gas efficiency tips for L2s](https://www.cyfrin.io/blog/solidity-gas-efficiency-tips-tackle-rising-fees-base-other-l2) — wrote this for the Cyfrin blog
+- [Various writeups](https://medium.com/@0xjesstech) on Medium
 
-### 🛠 Tech Stack
+## Stack
 
-- **Languages:** Solidity, Python, JavaScript, React, Rust
-- **Tooling:** Foundry, Hardhat
-- **Chains:** Ethereum, EVM
+Solidity, Foundry, Python, JavaScript, React, some Rust
 
----
+## Contact
 
-### 🎓 Education
-
-- **Degree:** Mathematics BSc (honours)  
-- **Web3 Security:** Cyfrin UpDraft
-
----
-
-### 🔗 Projects & Highlights
-
-- ✍️ [Smart Contract Deep Dives](https://medium.com/@jessontech)
-- 🛠 (First!) Full stack project: [On-Chain Blackjack Card Game](https://github.com/JessOnTechGit/FF21-full-stack) 
-- 🎮 Contributor to Cyfrin CodeHawks First Flights (example project: [First Flight #33: DatingDapp](https://github.com/JessOnTechGit/FF33-dating-dapp))
-- 🎓 Contributor to [Cyfrin Blog](https://www.cyfrin.io/blog/solidity-gas-efficiency-tips-tackle-rising-fees-base-other-l2)
-
----
-
-### 📬 Let’s Connect
-
-- 🐦 Twitter: [@0xjesstech](https://twitter.com/0xjesstech)  
-- 🎥 Medium: [@0xjesstech](https://medium.com/@0xjesstech)
-
----
-
-- 💬 How to reach me on Telegram: @jess6490
-- 📫 How to reach me by Email: jess@cyfrin.io
+Twitter: [@0xjesstech](https://twitter.com/0xjesstech)  
