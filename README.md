@@ -1,17 +1,19 @@
 # 👋 Hi, I'm Jess — @0xjesstech
 
----
-
 Instructor at [Cyfrin Updraft](https://updraft.cyfrin.io). I teach smart contract development and security.
 
 Previously studied maths, now most of my time goes into creating educational content, building cool stuff, and trying to break cool stuff (morally).
 
-## Things I've made/done
+## Some of my content
 
-- [On-Chain Blackjack](https://github.com/0xjesstech/FF21-full-stack) — my first full-stack dApp
-- [Damn Vulnerable DeFi V4 solutions](https://github.com/0xjesstech/DamnVulnerableDefiV4)
+- [Cyfrin Updraft Blockchain Basics Course](https://updraft.cyfrin.io/courses/blockchain-basics)
+- [Damn Vulnerable DeFi write-ups](https://medium.com/@0xjesstech)
 - [Gas efficiency tips for L2s](https://www.cyfrin.io/blog/solidity-gas-efficiency-tips-tackle-rising-fees-base-other-l2) — wrote this for the Cyfrin blog
-- [Various writeups](https://medium.com/@0xjesstech) on Medium
+- [Ethereum Distributor Validator Technology](https://www.cyfrin.io/blog/full-introduction-to-ethereum-distributed-validator-technology-dvt)
+
+## Dev work
+
+Whenever possible, i build in public, so... [github.com/0xjesstech](https://github.com/0xjesstech)
 
 ## Stack
 
